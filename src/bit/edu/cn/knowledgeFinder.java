@@ -6,7 +6,6 @@ public class knowledgeFinder {
 		System.out.println("°¥ßÏ");
 		
 		
-		
 	}
 
 }
