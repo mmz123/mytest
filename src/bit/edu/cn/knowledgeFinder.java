@@ -5,6 +5,7 @@ public class knowledgeFinder {
 		System.out.println("hello");
 		System.out.println("哎呦喂");
 		System.out.println("OK");
+		System.out.println("123");
 		
 		
 		
